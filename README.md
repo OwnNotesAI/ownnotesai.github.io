@@ -54,4 +54,4 @@ If you have any questions, feedback, or need technical assistance, please contac
 * **Email:** michukesu@gmail.com
 
 ## 📄 Legal
-* [Privacy Policy](PRIVACY.md)
+* [Privacy Policy](Privacy.html)
