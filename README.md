@@ -1,6 +1,6 @@
 # OwnNotes — Your Offline Private AI Notebook
 
-Turn your iPhone and iPad into a private AI-powered notebook that helps you capture, organize, summarize, and improve your ideas—completely offline.
+Turn your device into a private AI-powered notebook that helps you capture, organize, summarize, and improve your ideas—completely offline.
 
 **No cloud. No account. No subscription.**
 
