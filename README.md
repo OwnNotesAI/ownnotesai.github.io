@@ -51,7 +51,7 @@ Everything runs locally on your device, keeping your ideas private while deliver
 
 ## 🛠️ Support & Contact
 If you have any questions, feedback, or need technical assistance, please contact us:
-* **Email:** michukesu@gmail.com
+* **Email:** mail.quickproducts@gmail.com
 
 ## 📄 Legal
 * [Privacy Policy](Privacy.html)
